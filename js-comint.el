@@ -1,39 +1,11 @@
 ;;; js-comint.el --- JavaScript interpreter in window.
 
-;;; Copyright (C) 2008 Paul Huff
-;;; Copyright (C) 2015 Stefano Mazzucco
-;;; Copyright (C) 2016-2017 Chen Bin
-
-;;; Author: Paul Huff <paul.huff@gmail.com>, Stefano Mazzucco <MY FIRST NAME - AT - CURSO - DOT - RE>
 ;;; Maintainer: Chen Bin <chenbin.sh AT gmail DOT com>
 ;;; Created: 15 Feb 2014
 ;;; Version: 1.1.1
 ;;; URL: https://github.com/redguardtoo/js-comint
 ;;; Package-Requires: ((emacs "24.3"))
 ;;; Keywords: javascript, node, inferior-mode, convenience
-
-;; This file is NOT part of GNU Emacs.
-
-;;; License:
-
-;; This program is free software; you can redistribute it and/or
-;; modify it under the terms of the GNU General Public License as
-;; published by the Free Software Foundation; either version 3, or
-;; at your option any later version.
-
-;; js-comint.el is distributed in the hope that it will be useful, but
-;; WITHOUT ANY WARRANTY; without even the implied warranty of
-;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-;; General Public License for more details.
-
-;; You should have received a copy of the GNU General Public License
-;; along with GNU Emacs; see the file COPYING, or type `C-h C-c'. If
-;; not, write to the Free Software Foundation at this address:
-
-;;   Free Software Foundation
-;;   51 Franklin Street, Fifth Floor
-;;   Boston, MA 02110-1301
-;;   USA
 
 ;;; Commentary:
 
